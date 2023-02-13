@@ -1,0 +1,42 @@
+@import url('https://fonts.googleapis.com/css2?family=Sassy+Frass&family=Sofia+Sans+Extra+Condensed&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Anton&family=Dancing+Script:wght@500&family=Satisfy&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.con {
+    height: 100vh;
+    width: 100vw;
+    background-color: #3e3e3e;
+   background-image: linear-gradient(261deg, rgba(131,58,180,0.7427564775910365) 0%, rgba(253,29,29,0.5410758053221288) 50%, rgba(252,176,69,0.9780505952380952) 100%);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.hi {
+     color: white;
+    font-family: 'Satisfy', cursive;
+    font-style: italic;
+    font-size: 45px;
+    font-weight: 100;
+}
+
+.at {
+    color: white;
+    font-family: 'Satisfy', cursive;
+    font-style: italic;
+    font-size: 50px;
+    font-weight: 100;
+}
+.n
+{
+    color: white;
+    font-family: 'Satisfy', cursive;
+    font-style: italic;
+    font-size: 45px;
+    font-weight: 100;
+
+}
