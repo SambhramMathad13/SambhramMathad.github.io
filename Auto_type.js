@@ -1,4 +1,3 @@
-<script src="https://cdn.jsdelivr.net/npm/typed.js@2.0.12"></script>
 
 let str="Hi I am Sambhram Mathad...   "
 var typed = new Typed(".at", {
